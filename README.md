@@ -1,2 +1,2 @@
 # react-webpack-template
-React starter template - React + Typescript + Webpack + Babel
+React starter template - React + Webpack + Babel
