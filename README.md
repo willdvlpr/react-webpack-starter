@@ -1,6 +1,3 @@
-# electron-react-template
-Simple starter for Electron, React using Webpack
-=======
 # react-webpack-template
 
 React starter template - React + Webpack + Babel
