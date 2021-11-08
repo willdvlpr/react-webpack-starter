@@ -11,6 +11,7 @@ Uses Webpack and transpiles with Babel. Runs using wepback-dev-server.
 ## Get Started
 
 Download or `git clone https://github.com/willdvlpr/react-webpack-starter.git`.
+
 mv `mv ~/[path_to_react-webpack-starter]/ ~/[path_to_your-project-name]` (to use a starter for your own project).
 `cd [path_to_repo] && yarn`
 
