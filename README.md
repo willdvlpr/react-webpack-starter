@@ -16,4 +16,6 @@ Download or `git clone https://github.com/willdvlpr/react-webpack-starter.git`
 
 `cd [path_to_repo] && yarn`
 
+`yarn start`
+
 The dev server runs on port 3001 and can be configured under `devServer: { port: 3001 }` in webpack.config.js
