@@ -1,22 +1,17 @@
-# react-webpack-template
+# Dependency and File Structure for a React Application (no create-react-app)
 
-React starter template - React + Webpack + Babel
+## Supports (by default)...
 
-`git clone` template into directory and `cd react-webpack-template`
+React, TypeScript, CSS, SASS, Style-Components (including types), and react-router-dom (and types).
 
-Install dependencies `npm install`
+## Bundler
 
-Run Webpack Dev Server to start app template `npm run start`
+Uses Webpack and transpiles with Babel. Runs using wepback-dev-server.
 
-The webpack-dev-server will run on localhost:3000 -> to change this:
+## Get Started
 
-Inside webpack.config.js change `port: 3000` to whatever port you want to run on;
+Download or `git clone https://github.com/willdvlpr/react-webpack-starter.git`.
+mv `mv ~/[path_to_react-webpack-starter]/ ~/[path_to_your-project-name]` (to use a starter for your own project).
+`cd [path_to_repo] && yarn`
 
-`
-...
-devServer: {
-    port: 3000, 
-    ...
-},
-...
-`
+The dev server runs on port 3001 and can be configured under `devServer: { port: 3001 }` in webpack.config.js.

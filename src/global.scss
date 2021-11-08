@@ -1,0 +1,12 @@
+$primary-text-color: #000;
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  color: $primary-text-color;
+}
+
+* {
+  box-sizing: border-box;
+}
